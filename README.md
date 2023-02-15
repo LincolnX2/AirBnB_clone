@@ -95,5 +95,4 @@ Amenity
 All objects are accessed via storage, an instance of the FileStorage Class, for the above commands to be run.
 FileStorage Class manages the dictionary of all objects as well as serialization/deserialization of objects to JSON file.
 
-### Questions, Comments, Sugestions
-If you have questions or suggestions, contact J.I. Cruz at ji@jicruz.com or Kelsie Merchant at eislek02@gmail.com 
+
